@@ -1,10 +1,10 @@
 {
   "name": "ts-cluster-support-decorators",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Ivan Surkov <panarama360@gmail.com>",
   "main": "build/src/index.js",
   "typings": "build/types/src/index.d.ts",
-  "repository": "git@github.com:pamarama360/ts-cluster-support-decorators",
+  "repository": "git@github.com:panarama360/ts-cluster-support-decorators",
   "keywords": ["watch var","common var","lid","support","cluster","typescript","decorator","decorators","ts"],
   "dependencies": {
     "@types/node": "^10.11.4"
